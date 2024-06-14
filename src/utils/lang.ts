@@ -49,7 +49,7 @@ export const pt = {
       },
       {
         name: "Wealt: Finanças Pessoais",
-        description: "Meu aplicativo de sucesso, desenvolvido com um grupo de amigos, chama-se Kiwi Manga. É um aplicativo que facilita o acesso dos leitores ao manga e está disponível na Play Store com mais de 100.000 downloads e 5.000 usuários ativos. Eu o criei usando Flutter para o front-end e Next.js para o back-end. Foi uma experiência desafiadora, mas gratificante, ver o impacto positivo que teve em seus usuários.",
+        description: "Wealt foi cuidadosamente desenvolvido para simplificar sua vida, oferecendo uma variedade de ferramentas para auxiliá-lo, tudo em uma plataforma unificada. Com o FinançasMestras, você pode acompanhar e gerenciar sua riqueza de maneira simples e eficaz, ajudando-o a tomar decisões financeiras informadas. Assuma o controle total de suas finanças!",
         image: smartphone2,
         linkProject: 'https://wealt.app/'
       }
@@ -145,7 +145,7 @@ export const en = {
       },
       {
         name: "Wealt: Personal Finance",
-        description: "My successful app, developed with a group of friends, is called Kiwi Manga. It is an app that facilitates readers' access to manga and is available on the Play Store with over 100,000 downloads and 5,000 active users. I created it using Flutter for the front-end and Next.js for the back-end. It was a challenging but rewarding experience to see the positive impact it had on its users.",
+        description: "Wealt was carefully developed to simplify your life, offering a variety of tools to assist you, all on a unified platform. With FinançasMestras, you can track and manage your wealth in a simple and effective way, helping you make informed financial decisions. Take full control of your finances!",
         image: smartphone2,
         linkProject: 'https://wealt.app/'
       }
