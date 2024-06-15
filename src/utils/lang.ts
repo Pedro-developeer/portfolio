@@ -93,7 +93,7 @@ export const pt = {
   },
   contactSection: {
     title: "Me achou interessante?",
-    description: "Abra as portas para novas oportunidades e descubra como podemos fazer grandes coisas juntos!",
+    description: "Vamos conversar e explorar novas oportunidades juntos.",
     buttonText: "Me mande uma mensagem!"
   }
 }
@@ -189,7 +189,7 @@ export const en = {
   },
   contactSection: {
     title: "Found me interesting?",
-    description: "Open the doors to new opportunities and discover how we can do great things together!",
+    description: "Let's talk and explore new opportunities together.",
     buttonText: "Send me a message!"
   }
 }
